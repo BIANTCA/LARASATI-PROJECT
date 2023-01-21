@@ -1,2 +1,3 @@
 # LARASATI-PROJECT
-The Larasati project is the center of all projects made by BIANTCA
+I'm a beginner developer
+I joined the github community on January 21, 2023
