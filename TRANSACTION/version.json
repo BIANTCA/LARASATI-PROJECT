@@ -5,6 +5,6 @@
   "ButtonUpdate": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
+  "URL": "www.example.com",
   "Version": "300"
 }
