@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="TRANSACTION/assets/TRANSACTION ICON.png" />
+    <img src="assets/TRANSACTION ICON.png" />
 </p>
 
 # transaction
