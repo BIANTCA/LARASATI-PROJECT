@@ -1,8 +1,8 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
+  "Title": "Update",
+  "Description": "The latest version is available, now you can influence your application",
+  "ButtonUpdate": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "www.example.com",
