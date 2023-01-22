@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="TRANSACTION/assets/TRANSACTION ICON.png" />
+</p>
+
 # transaction
 - This application was developed to make it easier for entrepreneurs to calculate their finances
 - The application can be downloaded via the @SketchApplication telegram channel
