@@ -1,0 +1,3 @@
+# transaction
+- This application was developed to make it easier for entrepreneurs to calculate their business
+- The application can be downloaded via the @SketchApplication telegram channel
