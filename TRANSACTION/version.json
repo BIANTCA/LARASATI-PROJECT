@@ -1,10 +1,7 @@
 {
-  "Visibility": "VISIBLE",
+  "Update": true,
   "Title": "Update",
-  "Description": "The latest version is available, now you can influence your application",
-  "ButtonUpdate": "Update",
-  "Cancelable": "true",
-  "CancelButtonText": "Cancel",
+  "Message": "The latest version is available, now you can influence your application",
   "URL": "www.example.com",
   "Version": "300"
 }
