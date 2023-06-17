@@ -1,1 +1,8 @@
-apa,mengapa,bagaimana,siapa,dimana,kenapa
+{
+  "apa",
+  "bagaimana",
+  "siapa",
+  "kenapa",
+  "dimana",
+  "kapan"
+}
