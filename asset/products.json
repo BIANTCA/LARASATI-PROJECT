@@ -1,0 +1,33 @@
+[{
+ "tittle":"Category 1",
+ "type":"dict",
+ "prdoucts": [{
+  "tittle":"Product 1",
+  "price":"50.000",
+  "type":"product",
+  "image":"assets/product.jpg"
+ },
+  {
+   "tittle":"Product 2",
+   "price":"150.000",
+   "type":"product",
+   "image":"assets/product.jpg"
+  }]
+ "image":"assets/product.jpg"
+}, {
+ "tittle":"Category 2",
+ "products":[{
+  "tittle":"Product 1",
+  "price":"50.000",
+  "type":"product",
+  "image":"assets/product.jpg"
+ },
+  {
+   "tittle":"Product 2",
+   "price":"150.000",
+   "type":"product",
+   "image":"assets/product.jpg"
+  }]
+ "type":"dict",
+ "image":"assets/product.jpg"
+}]
