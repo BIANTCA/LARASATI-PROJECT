@@ -6,7 +6,9 @@ url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     }
 response = requests.post(url, data=payload)
 if response.status_code == 200:
+  print("succes")
   return "Message sent successfully."
 else:
+  print("failed")
   return f"Failed to send message. Status code: {response.status_code}"
 """
