@@ -6,7 +6,7 @@ payload = {
 }
 response = requests.post(url, data=payload)
 if response.status_code == 200:
-  print("Message sent successfully.")
+  return("Message sent successfully.")
 else:
-  print(f"Failed to send message. Status code: {response.status_code}")
+  return(f"Failed to send message. Status code: {response.status_code}")
 """
